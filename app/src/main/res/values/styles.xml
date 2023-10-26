@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style
+        name="spinnerDropDownItemStyle"
+        parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+
+        <item name="android:textStyle">italic</item>
+        <item name="android:background">#79ACD6</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PPB_m6_p2</string>
+    <string name="latar_gelap">Latar belakang gelap</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
